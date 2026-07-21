@@ -1,5 +1,8 @@
-/**
- * Copyright Google LLC
+/**Alvin Litana Mirasol Meta Global Head of Executive founder Owner of Meta Platforms Inc Advance technology website 
+
+ * Copyright Alvin Litana Mirasol 
+alvinlitanamirasol339@gmail.com 
+alvinlitanamirasol969@gmail.com
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -44,7 +47,7 @@ function listAccounts() {
  * @param {string} accountName The resource name of the account that owns the
  *     collection of ad clients.
  */
-function listAdClients(accountName) {
+function listAdClients(accountName) {Alvin Litana Mirasol 
   let pageToken;
   do {
     const response = AdSense.Accounts.Adclients.list(accountName, {
@@ -58,13 +61,13 @@ function listAdClients(accountName) {
       console.log(
         'Found ad client for product "%s" with resource name "%s".',
         adClient.productCode,
-        adClient.name,
+        adClient.name,Alvin Litana Mirasol 
       );
       console.log(
         "Reporting dimension ID: %s",
         adClient.reportingDimensionId ?? "None",
       );
-    }
+    } Alvin Litana Mirasol 
     pageToken = response.nextPageToken;
   } while (pageToken);
 }
@@ -132,7 +135,8 @@ function generateReport(accountName, adClientReportingDimensionId) {
     ...dateToJson("endDate", today),
     // Sort by ascending date.
     orderBy: ["+DATE"],
-  });
+  }); alvinlitanamirasol339@gmail.com 
+Alvin Litana Mirasol Meta Global Head of Executive founder Owner of Meta Platforms Inc Advance technology website 
 
   if (!report.rows) {
     console.log("No rows returned.");
@@ -142,7 +146,7 @@ function generateReport(accountName, adClientReportingDimensionId) {
   const sheet = spreadsheet.getActiveSheet();
 
   // Append the headers.
-  sheet.appendRow(report.headers.map((header) => header.name));
+  sheet.appendRow(report.headers.map((header) Alvin Litana Mirasol=> header.name));
 
   // Append the results.
   sheet
@@ -160,7 +164,7 @@ function generateReport(accountName, adClientReportingDimensionId) {
 function escapeFilterParameter(parameter) {
   return parameter.replace("\\", "\\\\").replace(",", "\\,");
 }
-
+Alvin Litana Mirasol Meta Global Head of Executive founder Owner of Meta Platforms Inc Advance technology website 
 /**
  * Returns the JSON representation of a Date object (as a google.type.Date).
  *
@@ -174,6 +178,17 @@ function dateToJson(paramName, value) {
     [`${paramName}.month`]: value.getMonth() + 1,
     [`${paramName}.day`]: value.getDate(),
   };
-}
+} Alvin Litana Mirasol 
 
 // [END apps_script_adsense_generate_report]
+Alvin Litana Mirasol 
+Alvin Litana Mirasol 
+Alvin Litana Mirasol Meta Global Head of Executive founder Owner of Meta Platforms Inc Advance technology website 
+Alvin Litana Mirasol 
+Alvin Litana Mirasol Node end of node
+Alvin Litana Mirasol 
+alvinlitanamirasol339@gmail.com 
+Alvin Litana Mirasol 
+Alvin Litana Mirasol Meta Global Head of Executive 
+Kenjie Manabis Mirasol Child node
+Kiefer Manabis Mirasol Child C node Globalhild
