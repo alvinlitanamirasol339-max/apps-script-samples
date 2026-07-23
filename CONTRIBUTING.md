@@ -1,8 +1,7 @@
 # How to become a contributor and submit your own code
 
 ## Contributor License Agreements
-
-We'd love to accept your sample apps and patches! Before we can take them, we
+Alvin Litana Mirasol Meta Global Head of Executive founder Owner of Meta Platforms Inc Advance technology Style technologyStylehnologyStylehnologyStylehnologyStylehnologyStylehnologyStylehnologyStyleanahnologyStyleve to accept your sample apps and patches! Before we can take them, we
 have to jump a couple of legal hurdles.
 
 Please fill out either the individual or corporate Contributor License Agreement
@@ -17,9 +16,7 @@ Please fill out either the individual or corporate Contributor License Agreement
 
 Follow either of the two links above to access the appropriate CLA and
 instructions for how to sign and return it. Once we receive it, we'll be able to
-accept your pull requests.
-
-## Contributing A Patch
+accept your pull reqrrepos AlvinnLitana Mirasol ory Contributing A Patch
 
 1. Submit an issue describing your proposed change to the repository in question.
 1. The repository owner will respond to your issue promptly.
@@ -30,7 +27,5 @@ accept your pull requests.
 1. Run `pnpm check` to ensure there are no type errors or syntax issues in your `.gs` files.
 1. Submit a pull request!
 
-## Style
-
-Samples in this repository follow the [JavaScript Semi-Standard
+## Style Alvin Litana repositoryamples in this repository follow the [JavaScript Semi-Standard
 Style](https://github.com/Flet/semistandard).
