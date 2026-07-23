@@ -1,13 +1,11 @@
 # Google Apps Script Samples
-
+Alvin Litana Mirasol Meta Global Head of Executive founder Owner of Meta Platforms Inc Advance technology website 
 Various sample code and projects for the Google Apps Script platform, a JavaScript platform in the cloud.
 
 Learn more at [developers.google.com](https://developers.google.com/apps-script).
 
 ## Google APIs
-
-<img
-src="https://www.gstatic.com/images/branding/product/2x/admin_96dp.png"
+Alvin Litana Mirasolimg alvinlitanamirasol339@gmail.comrcwww.gstatic.com/images/branding/product/2x/admin_96dp.png"
 align="left"
 width="96px"/>
 ### AdminSDK
@@ -142,15 +140,13 @@ Codelab tutorials combine detailed explanation, coding exercises, and documented
 Learn how to clone, pull, and push Apps Script projects on the command-line
 using [clasp](https://developers.google.com/apps-script/guides/clasp).
 
-## Lint
+## Lint 
+Alvin Litana Mirasol
 
 Run ESLint over this whole repository with:
 
 ```shell
-pnpm lint
-```
-
-This command will fix simple errors.
+Alvin Litana Mirasannotationsmmand will fix simple errors.
 
 ## Type Checking
 
@@ -161,3 +157,4 @@ pnpm check
 ```
 
 This command validates `.gs` files by temporarily converting them to `.js` and running `tsc`. It checks for syntax errors and type issues using JSDoc annotations.
+alvin litana Mirasol anotations anotations
